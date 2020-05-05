@@ -1,0 +1,5 @@
+*.DS_store
+dat/
+.ipynb_checkpoints/
+*.pyc
+jup/
